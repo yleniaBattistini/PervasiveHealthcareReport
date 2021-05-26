@@ -1,0 +1,20 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - src/Analisi.md
+  - src/Conclusioni.md
+  - src/DesignArchitetturale.md
+  - src/DesignDettaglio.md
+  - src/Git.md
+  - src/Implementazione.md
+  - src/Licenza.md
+  - src/ProcessoSviluppo.md
+  - src/Versionamento.md
+
+theme: jekyll-theme-tactile
